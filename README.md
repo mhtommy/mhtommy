@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhtommy
+- 👋 Hi, I’m @kilimo_thomas
 i am an environmentalist
 - 👀 I’m interested in learning new computer languages and tasks using python
 - 🌱 I’m currently learning python mamba 
